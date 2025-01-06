@@ -1,3 +1,5 @@
+package game;
+
 class Judgiment {
     private int hit;
     private int blow;
